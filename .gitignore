@@ -7,6 +7,7 @@
 # Test binary
 *.test
 
-# CSV
+# CSV / TXF
 *.csv
 *.CSV
+*.TXF
